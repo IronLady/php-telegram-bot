@@ -1,5 +1,6 @@
 {
-    "name": "ironlady/telegram-bot",
+    "name": "ironlady/telegram-bot", 
+    "version": "0.1.0",
     "type": "library",
     "description": "PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
