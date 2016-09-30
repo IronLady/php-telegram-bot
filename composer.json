@@ -1,20 +1,14 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "ironlady/telegram-bot",
     "type": "library",
     "description": "PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
     "license": "MIT",
-    "homepage": "https://github.com/akalongman/php-telegram-bot",
-    "support": {
-        "issues": "https://github.com/akalongman/php-telegram-bot/issues",
-        "source": "https://github.com/akalongman/php-telegram-bot"
-    },
+    "homepage": "https://github.com/IronLady/php-telegram-bot",
     "authors": [
         {
-            "name": "Avtandil Kikabidze aka LONGMAN",
-            "email": "akalongman@gmail.com",
-            "homepage": "http://longman.me",
-            "role": "Developer"
+            "name": "Samuel Sena",
+            "email": "sammy171288@gmail.com",
         }
     ],
     "repositories": [
