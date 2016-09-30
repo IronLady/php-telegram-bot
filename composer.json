@@ -12,23 +12,10 @@
             "email": "sammy171288@gmail.com",
         }
     ],
-    "repositories": [
+   "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "ironlady/firebase-php",
-                "version": "dev-master",
-                "source": {
-                    "url": "git://github.com/IronLady/firebase-php.git",
-                    "type": "git",
-                    "reference": "master"
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Firebase\\FirebaseLib\\": "src/"
-                    }
-                }
-            }
+            "type": "git",
+            "url": "https://github.com/IronLady/firebase-php"
         }
     ],
     "require": {
@@ -37,7 +24,7 @@
         "ext-curl": "*",
         "monolog/monolog": "^1.19",
         "guzzlehttp/guzzle": "~6.0", 
-        "ironlady/firebase-php": "*"
+        "ironlady/firebase-php": "dev-master"
     },
     "autoload": {
         "psr-4": {
